@@ -4,6 +4,8 @@ A 3x3 Rubik's Cube state editor, solver, and animation visualization tool built 
 
 ![Rubik's Cube Solver Screenshot](solver.png)
 
+**Demo: [https://reinmind.github.io/](https://reinmind.github.io/)**
+
 ## Features
 
 - **3D Visualization**: Interactive 3D cube view with orbit controls (drag to rotate view, scroll to zoom)
@@ -24,7 +26,7 @@ A 3x3 Rubik's Cube state editor, solver, and animation visualization tool built 
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/reinmind/rubiks_cube_solver)
 cd cube
 
 # Install dependencies
