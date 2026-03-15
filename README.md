@@ -26,7 +26,7 @@ A 3x3 Rubik's Cube state editor, solver, and animation visualization tool built 
 
 ```bash
 # Clone the repository
-git clone https://github.com/reinmind/rubiks_cube_solver
+git clone https://github.com/reinmind/rubiks-cube-solver
 cd cube
 
 # Install dependencies
